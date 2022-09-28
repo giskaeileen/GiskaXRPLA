@@ -1,0 +1,2 @@
+# GiskaXRPLA
+Membuat repo pertama
